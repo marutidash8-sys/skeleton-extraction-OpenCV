@@ -1,0 +1,8 @@
+skeleton-extraction-opencv
+│── skeletonize.py
+│── README.md
+│── requirements.txt
+│── input/
+│     └── sample.jpg
+│── output/
+      └── skeleton_output.png
